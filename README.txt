@@ -7,4 +7,4 @@ And now, live on origin!
 
 A change in the cloned repository was added: let's hope it will be interesting.
 
-Conflicting sentence for merging.
+A merging experiment was performed to study conflict resolution. The experiment was a success.
