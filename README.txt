@@ -5,4 +5,6 @@ rumba bi du
 
 And now, live on origin!
 
-A change in teh cloned repository was added: let's hope it will be interesting.
+A change in the cloned repository was added: let's hope it will be interesting.
+
+Conflicting sentence for merging.
