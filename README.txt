@@ -6,3 +6,5 @@ rumba bi du
 And now, live on origin!
 
 A change in teh cloned repository was added: let's hope it will be interesting.
+
+Now we'll try a merging experiment.
